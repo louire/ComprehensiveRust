@@ -9,7 +9,9 @@ fn main(){
         }
         print!("-> {x}");
     }
+
     println!();
+
 
 }
 
